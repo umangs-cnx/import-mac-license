@@ -1,5 +1,6 @@
 # Output CSV files
-output_data/
+output_data/licenseDetails.csv
+output_data/BirdAiDB
 
 # Logs
 logs

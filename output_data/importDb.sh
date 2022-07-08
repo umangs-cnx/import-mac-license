@@ -1,0 +1,1 @@
+mongoimport --db BirdAi --collection licenses --file BirdAiDB
